@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m a passionate Java Developer.
 
-🌱 I’m currently learning Spring Boot
+🌱 I’m currently learning Spring Boot RESTful API.
 
 📫 How to reach me: anjali16khushi@gmail.com
 
