@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m a passionate Java Developer.
 
-🌱 I’m currently learning Spring Boot RESTful API.
+🔭 I’m a passionate software developer in the making.
+
+🌱 I'm Currently learning and exploring various aspects of software development, including algorithms, data structures, and web development.
+
+
+💻 I'm working on personal projects to improve my coding skills and understanding of programming paradigms.
+
 
 📫 How to reach me: anjali16khushi@gmail.com
 
